@@ -1,0 +1,11 @@
+[package]
+name = "xcodesort"
+version = "0.1.0"
+authors = ["Evgenii Elchev <yolchev@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.2"
+lazy_static = "1.3"
